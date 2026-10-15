@@ -12,7 +12,7 @@ Funcionalidades
 
 Acesse o projeto
 
-Visitar o site
+www.brunagratek.com.br
 
 Desenvolvedor
 
