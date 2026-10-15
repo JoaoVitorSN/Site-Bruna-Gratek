@@ -14,6 +14,4 @@ Acesse o projeto
 
 www.brunagratek.com.br
 
-Desenvolvedor
-
-João Vitor de Souza do Nascimento
+Desenvolvedor:João Vitor de Souza do Nascimento
